@@ -1,0 +1,175 @@
+
+@media only screen and (min-width:480px) and (max-width: 767px) {
+    body{
+        width:480px;
+    }
+
+
+    #boxa{
+        width:240px;
+        height:250px;
+        background:red;
+
+    }
+
+    div{
+        margin:0 0;
+        border: 1px solid black;
+        float:left;
+    }
+    #a{
+        width:480px;
+        height:75px;
+        background:blue;
+    }
+    #b{
+        width:480px;
+        height:125px;
+        background:green;
+    }
+    #c{
+        width:480px;
+        height:125px;
+        background: orange;
+    }
+    #d{
+        width:480px;
+        height:125px;
+        background: pink;
+    }
+    .boxa{
+        
+        width:240px;
+        height:250px;
+        margin:0 0;
+        background:darksalmon;
+    }
+
+    .boxb{
+        width:240px;
+        height:250px;
+        margin:0 0;
+        background:forestgreen;
+        
+    }
+    .boxc{
+        width:240px;
+        height:250px;
+        margin:0 0;
+        background:purple;
+        
+    }
+    .boxd{
+        width:240px;
+        height:250px;
+        margin:0 0;
+        background:yellow;
+        
+    }
+
+    .blockb{
+        display:inline-block;
+        margin:0 0;
+    }
+    #footer{
+        width:480px;
+        height:80px;
+        border:1px solid black;
+        margin-top:-3px;
+        margin-bottom:0;
+        background: darkgoldenrod;
+    }
+    span{
+        text-align:center;
+        display:block;
+        position:relative;
+        top:50%;
+    }
+
+
+}
+@media only screen and (min-width:768px) {
+
+    body{
+        width:960px;
+    }
+ 
+    #boxa{
+        width:240px;
+        height:250px;
+        background:blue;
+
+    }
+
+    div{
+        margin:0 0;
+        border: 1px solid black;
+        float:left;
+    }
+    #a{
+        width:960px;
+        height:100px;
+        background:red;
+    }
+    #b{
+        width:200px;
+        height:600px;
+        background:purple;
+    }
+    #c{
+        width:380px;
+        height:200px;
+        background: orange;
+    }
+    #d{
+        width:380px;
+        height:200px;
+        background: greenyellow;
+    }
+    .boxa{
+        
+        width:190px;
+        height:250px;
+        margin:0 0;
+        background:deeppink;
+    }
+
+    .boxb{
+        width:190px;
+        height:250px;
+        margin:0 0;
+        background:firebrick;
+        
+    }
+    .boxc{
+        width:190px;
+        height:250px;
+        margin:0 0;
+        background:lime;
+        
+    }
+    .boxd{
+        width:190px;
+        height:250px;
+        margin:0 0;
+        background:khaki;
+        
+    }
+
+    #footer{
+        width:760px;
+        height:150px;
+        border:1px solid black;
+        margin-top:-3px;
+        margin-bottom:0;
+        background: skyblue;
+    }
+    span{
+        text-align:center;
+        display:block;
+        position:relative;
+        top:50%;
+    }
+
+
+}
